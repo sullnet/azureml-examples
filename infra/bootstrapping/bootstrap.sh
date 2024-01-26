@@ -22,10 +22,10 @@ SCRIPT_DIR="$( cd "$( dirname "${SCRIPT_PATH}" )" && pwd )"
 ###################
 # REQUIRED ENVIRONMENT VARIABLES:
 #
-# RESOURCE_GROUP_NAME
-# WORKSPACE_NAME
-# LOCATION
-# SUBSCRIPTION_ID
+RESOURCE_GROUP_NAME = "dp100RG"
+WORKSPACE_NAME = "disml02ws"
+LOCATION = "southcentralus"
+SUBSCRIPTION_ID = "3726ff28-a235-4b75-a9bb-f2814f81f69a"
 
 ###############
 
